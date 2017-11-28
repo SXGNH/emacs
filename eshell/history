@@ -1,0 +1,20 @@
+dir
+cd
+ls
+cd /
+path
+PATH
+echo $PATH
+node
+node
+ls
+cd /
+ls
+test/
+ls
+cd ..
+cd project/
+ls
+test.c
+emacs
+path
